@@ -1,1 +1,2 @@
-# practice_posgresql
+# 概要
+- PostgreSQL環境を使ったSQL練習用ディレクトリ
